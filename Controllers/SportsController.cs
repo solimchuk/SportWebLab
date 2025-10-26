@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization; // <-- 1. ДОДАНО ЦЕЙ USING
 using Microsoft.AspNetCore.Mvc;
 using BusinessLogic.Services;
-using DataAccess.Models; // Додамо using для Sport
+using DataAccess.Models; 
 using Microsoft.EntityFrameworkCore; // Потрібен для DbUpdateConcurrencyException
 
 namespace WebApplication1.Controllers
