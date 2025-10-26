@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore; // Потрібен для DbUpdateConcurre
 
 namespace WebApplication1.Controllers
 {
-    [Authorize(Roles = "Admin")] // <-- 2. ДОДАНО ЦЕЙ АТРИБУТ
+    [Authorize(Roles = "Admin")] 
     public class SportsController : Controller
     {
         private readonly SportService _sportService;
