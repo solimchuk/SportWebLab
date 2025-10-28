@@ -411,3 +411,4 @@ C:\Users\yadim\source\repos\WebApplication1\WebApplication1\obj\Debug\net9.0\ref
 C:\Users\yadim\source\repos\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
 C:\Users\yadim\source\repos\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 C:\Users\yadim\source\repos\WebApplication1\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+C:\Users\yadim\source\repos\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json
